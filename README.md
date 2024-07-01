@@ -7,5 +7,9 @@ This Repository contains snippets for basic python functions
 
 
 # Important Links:
-Regex Editor/Test - https://regex101.com/
-Emojis - https://emojipedia.org/search?q=credits
+<ul>
+<li>Regex Editor/Test - https://regex101.com/ </li>
+<li>Emojis - https://emojipedia.org/search?q=credits </li>
+
+
+</ul>
