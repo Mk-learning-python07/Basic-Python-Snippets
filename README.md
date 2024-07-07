@@ -8,6 +8,9 @@ This Repository contains snippets for basic python functions
 # Fun Games
 Sudoku Solver - One of the first puzzles i learnt when i was a kid. Sometimes found it hard to solve these if the level of these puzzles are difficult (less filled numbers => More possibilities)
 
+# LeetCode
+This folder contains ipynb notebooks for each individual question from leetcode
+
 # Important Links:
 <ul>
 <li>Regex Editor/Test - https://regex101.com/ </li>
